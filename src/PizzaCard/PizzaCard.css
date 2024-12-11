@@ -1,0 +1,25 @@
+.card {
+    width: 280px;
+    border-radius: 6px;
+    padding: 10px;
+    border: 1px solid grey;
+    margin-left: 50px;
+    text-align: center;
+}
+.card-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.pizz-img{
+    width: 250px;
+}
+.text {
+    height: 150px;
+}
+.choose {
+    padding: 10px 40px;
+    background-color: rgba(253, 223, 179, 0.875);
+    color: rgb(156, 86, 11);
+    border-radius: 20px;
+}
